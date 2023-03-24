@@ -20,11 +20,11 @@ mssg_hour = int(mssg_time[0:2])
 mssg_min = int(mssg_time[3:5])
 
 #calling the sendwhatmssg function which opens whatsapp and sends mssg..to reach our destination
-pywhatkit.sendwhatmsg(Number,Message,mssg_hour,mssg_min,10)
+pywhatkit.sendwhatmsg(Number,Message,mssg_hour,mssg_min,15)
 
 #now press function from pyautogui library will get the right atmosphere and will do its job of typing and sending
 #wb.open("https://web.whatsapp.com/")
-#time.sleep(10)
+time.sleep(4)
 
 x=0
 mssg_char=None
@@ -41,6 +41,6 @@ while i<repeat_times:
         x+=1
 
     y+=1
-
+py.press("enter")
 
 
