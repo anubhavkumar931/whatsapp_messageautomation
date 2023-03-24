@@ -1,0 +1,20 @@
+MADE BY ANUBHAV KUMAR
+EMAIL anubhavchoudhary931@gmail.com
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+This is a simple program coded in python then converted to .exe(executable) using pyinstall library
+
+WHAT DOES THE APP DO :
+
+REQUEST NUMBER OF THE PERSON TO WHOM THE MESSAGE IS TO BE SENT ,1ST MESSAGE(IS SENT ONLY ONE TIME),SECOND MESSAGE(IS SENT THE NUMBER OF TIME USER WANTS),TIME(AT WHICH THE IT EXECUTES THE CODE)
+
+HOW TO USE :
+
+1) Just Clone the folder any where in your computer.
+2) Then just execute the whatsapp_messageautomation.exe file located in "\dist\whatsapp_messageautomation" [Windows Terminal  will open , enter the requested inputs and just press enter]
+
+HOW TO INPUT :
+
+a) Please Enter the whatsapp number with prefixed country code {ex. if the number is of India then number --> +91xxxxxxxxxx } and do not add any space between any digit
+b) Please Enter the in format of Military Time {ex: if the time is 1:50 PM then enter 13 50} AND also add only one space(must add) between hour and min 
+c) Please DO NOT ENTER the present time (It takes time for the app to open the site and execute command )
+
